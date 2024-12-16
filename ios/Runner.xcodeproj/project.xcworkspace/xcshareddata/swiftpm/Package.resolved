@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "llama-cpp-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/srgtuszy/llama-cpp-swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5fff6aaeae60df84b03f7d0aa246745290fdc65f"
+      }
+    },
+    {
+      "identity" : "llama.cpp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ggerganov/llama.cpp",
+      "state" : {
+        "branch" : "master",
+        "revision" : "4ddd199f6f6b980e0a7ed9f9b44efeae2fbdf5c4"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "96a2f8a0fa41e9e09af4585e2724c4e825410b91",
+        "version" : "1.6.2"
+      }
+    }
+  ],
+  "version" : 2
+}
