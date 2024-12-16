@@ -1,4 +1,4 @@
-# flutter_llama_swift
+# [WORK IN PROGRESS] flutter_llama_swift
 
 A new Flutter project.
 
